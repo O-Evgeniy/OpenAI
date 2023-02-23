@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAI.Api", "OpenAI.Api\OpenAI.Api.csproj", "{619A21CC-DA1B-4756-99AC-34BD16D9BBE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAI.Lib", "OpenAI.Lib\OpenAI.Lib.csproj", "{D7F552F9-73B0-42C3-A40F-97081A7078C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAI.TelegramBot", "OpenAI.TelegramBot\OpenAI.TelegramBot.csproj", "{342D9A48-9223-401D-A20D-1742850A8E73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{619A21CC-DA1B-4756-99AC-34BD16D9BBE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{619A21CC-DA1B-4756-99AC-34BD16D9BBE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{619A21CC-DA1B-4756-99AC-34BD16D9BBE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{619A21CC-DA1B-4756-99AC-34BD16D9BBE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7F552F9-73B0-42C3-A40F-97081A7078C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F552F9-73B0-42C3-A40F-97081A7078C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F552F9-73B0-42C3-A40F-97081A7078C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F552F9-73B0-42C3-A40F-97081A7078C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{342D9A48-9223-401D-A20D-1742850A8E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342D9A48-9223-401D-A20D-1742850A8E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342D9A48-9223-401D-A20D-1742850A8E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342D9A48-9223-401D-A20D-1742850A8E73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
